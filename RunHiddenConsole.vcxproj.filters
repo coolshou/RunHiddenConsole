@@ -15,4 +15,7 @@
       <Filter>sources</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="RunHiddenConsole.rc" />
+  </ItemGroup>
 </Project>
